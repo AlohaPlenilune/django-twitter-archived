@@ -134,3 +134,5 @@ dmypy.json
 
 # additional types
 .DS_Store
+.idea
+.pycharm_helpers
