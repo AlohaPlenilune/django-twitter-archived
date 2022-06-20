@@ -131,3 +131,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# additional types
+.DS_Store
+.idea
+.pycharm_helpers
